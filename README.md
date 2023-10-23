@@ -13,4 +13,3 @@ Boas Práticas e padrões na modelagem de uma Arquitetura de Microservices compl
 - [Modelagem Arquitetura de Microservices](/aula-01.md)
 - [Microservices Patterns](/aula-02.md)
 - [Comunicações entre Microservices](/aula-03.md)
-- [Projeto Decoder](/aula-04.md)

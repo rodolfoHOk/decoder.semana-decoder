@@ -1,3 +1,0 @@
-# Projeto Decoder
-
-> Em breve
